@@ -1,2 +1,2 @@
 ![](2.gif)
-Can be used as a header image for your github profile.
+Can be used as a header for your github profile.
